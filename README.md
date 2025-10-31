@@ -1,4 +1,4 @@
-<h1 align="center">💻 Full Stack Developer | Java & MERN Stack Specialist | Analytical Problem Solver</h1>
+<h1 align="center">💻 Full Stack Developer |  Analytical Problem Solver</h1>
 
 <p align="center">
 I’m a versatile and innovation-driven software developer proficient in <b>Java</b> and the <b>MERN stack</b>, passionate about crafting robust, scalable, and high-performance applications.
