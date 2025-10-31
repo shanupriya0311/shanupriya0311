@@ -17,11 +17,33 @@ I’m a versatile and innovation-driven software developer proficient in <b>Java
 ### 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,nodejs,express,mongodb,mysql,java,spring,cpp,c" />
+  <!-- Row 1 -->
+  <img src="https://skillicons.dev/icons?i=html" height="50" />
+  <img src="https://skillicons.dev/icons?i=css" height="50" />
+  <img src="https://skillicons.dev/icons?i=js" height="50" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="50" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/DSA-Problem%20Solving-brightgreen?style=for-the-badge&logo=leetcode" />
+  <!-- Row 2 -->
+  <img src="https://skillicons.dev/icons?i=react" height="50" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="50" />
+  <img src="https://skillicons.dev/icons?i=express" height="50" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="50" />
+</p>
+
+<p align="center">
+  <!-- Row 3 -->
+  <img src="https://skillicons.dev/icons?i=mysql" height="50" />
+  <img src="https://skillicons.dev/icons?i=spring" height="50" />
+  <img src="https://skillicons.dev/icons?i=java" height="50" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="50" />
+</p>
+
+<p align="center">
+  <!-- Row 4 -->
+  <img src="https://skillicons.dev/icons?i=c" height="50" />
+  <img src="https://img.shields.io/badge/DSA-Problem%20Solving-brightgreen?style=for-the-badge&logo=leetcode" height="40" />
 </p>
 
 ---
