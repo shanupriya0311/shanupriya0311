@@ -16,34 +16,42 @@ I’m a versatile and innovation-driven software developer proficient in <b>Java
 
 ### 💻 Tech Stack
 
+<br>
+
+#### 🎨 Frontend Technologies
 <p align="center">
-  <!-- Row 1 -->
-  <img src="https://skillicons.dev/icons?i=html" height="50" />
-  <img src="https://skillicons.dev/icons?i=css" height="50" />
-  <img src="https://skillicons.dev/icons?i=js" height="50" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="50" />
+  <img src="https://skillicons.dev/icons?i=html" height="60" style="margin: 10px;" />
+  <img src="https://skillicons.dev/icons?i=css" height="60" style="margin: 10px;" />
+  <img src="https://skillicons.dev/icons?i=js" height="65" style="margin: 12px;" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" style="margin: 10px;" />
 </p>
 
+<br>
+
+#### ⚙️ Backend & Databases
 <p align="center">
-  <!-- Row 2 -->
-  <img src="https://skillicons.dev/icons?i=react" height="50" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="50" />
-  <img src="https://skillicons.dev/icons?i=express" height="50" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="50" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="60" style="margin: 10px;" />
+  <img src="https://skillicons.dev/icons?i=express" height="60" style="margin: 10px;" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="60" style="margin: 10px;" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="60" style="margin: 10px;" />
 </p>
 
+<br>
+
+#### ☕ Programming Languages
 <p align="center">
-  <!-- Row 3 -->
-  <img src="https://skillicons.dev/icons?i=mysql" height="50" />
-  <img src="https://skillicons.dev/icons?i=spring" height="50" />
-  <img src="https://skillicons.dev/icons?i=java" height="50" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="50" />
+  <img src="https://skillicons.dev/icons?i=java" height="75" style="margin: 18px;" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="75" style="margin: 18px;" />
+  <img src="https://skillicons.dev/icons?i=c" height="75" style="margin: 18px;" />
+  <img src="https://skillicons.dev/icons?i=react" height="70" style="margin: 16px;" />
 </p>
 
+<br>
+
+#### 🧠 Additional Skills
 <p align="center">
-  <!-- Row 4 -->
-  <img src="https://skillicons.dev/icons?i=c" height="50" />
-  <img src="https://img.shields.io/badge/DSA-Problem%20Solving-brightgreen?style=for-the-badge&logo=leetcode" height="40" />
+  <img src="https://skillicons.dev/icons?i=spring" height="60" style="margin: 10px;" />
+  <img src="https://img.shields.io/badge/DSA-Problem%20Solving-brightgreen?style=for-the-badge&logo=leetcode" height="45" style="margin: 10px;" />
 </p>
 
 ---
