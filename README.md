@@ -1,4 +1,3 @@
-
 <h1 align="center">💻 Full Stack Developer | Java & MERN Stack Specialist | Analytical Problem Solver</h1>
 
 <p align="center">
@@ -15,6 +14,18 @@ I’m a versatile and innovation-driven software developer proficient in <b>Java
 
 ---
 
+### 💻 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,nodejs,express,mongodb,mysql,java,spring,cpp,c" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/DSA-Problem%20Solving-brightgreen?style=for-the-badge&logo=leetcode" />
+</p>
+
+---
+
 ### 🌐 Coding Profiles
 
 <p align="center">
@@ -28,15 +39,7 @@ I’m a versatile and innovation-driven software developer proficient in <b>Java
     <img src="https://img.shields.io/badge/CodeChef-Solve-brown?style=for-the-badge&logo=codechef" alt="CodeChef"/>
   </a>
 </p>
-Footer
-© 2025 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Community
-Docs
-Contact
-Manage cookies
-Do not share my personal information
+
+---
+
+⭐ *“Let’s build something amazing together!”* 🚀
